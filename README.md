@@ -1,4 +1,5 @@
 Blockchain Terminal
+
 An interactive, visual blockchain simulator built with vanilla JavaScript, HTML, and Tailwind CSS. This project provides a hands-on demonstration of the core concepts of blockchain technology, all wrapped in a retro terminal-style interface.
 ✨ Features
  * Interactive Blockchain: Create a blockchain from scratch right in your browser.
